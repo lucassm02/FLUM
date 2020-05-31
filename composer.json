@@ -1,5 +1,6 @@
 {
   "name": "lucassm02/flum",
+  "version": "0.0.1",
   "description": "Flum is a simple, fast and efficient file upload module for PHP",
   "keywords": [
     "upload",
