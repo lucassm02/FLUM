@@ -1,0 +1,20 @@
+{
+  "name": "lucassm02/flum",
+  "description": "Flum is a simple, fast and efficient file upload module for PHP",
+  "keywords": [
+    "upload",
+    "file",
+    "validator",
+    "manager"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Santos",
+      "email": "lucassm02@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {}
+}
