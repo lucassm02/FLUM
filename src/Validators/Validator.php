@@ -15,6 +15,7 @@ class Validator{
           return strtolower($index);
       },$config['extension']);
       
+      
       $validatorConfig = (object) array_merge($default,$config,lowerCaseExtensions);
       
       $this->validatorConfig = $validatorConfig;
