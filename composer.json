@@ -16,5 +16,10 @@
       "role": "Developer"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Flum\\Validator\\": "src/Validators"
+    }
+  },
   "require": {}
 }
