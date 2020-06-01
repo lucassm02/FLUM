@@ -19,7 +19,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Flum\\Validator\\": "src/Validators"
+      "Flum\\": "src/"
     }
   },
   "require": {}
